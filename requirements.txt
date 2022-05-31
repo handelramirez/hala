@@ -1,0 +1,9 @@
+requests
+aiogram
+bs4
+user-agent
+validators
+pyasn1
+pyopenssl
+certifi
+requests_toolbelt

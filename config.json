@@ -1,0 +1,11 @@
+{
+    "limit": 240,
+    "user" : "manuelito",
+    "pwd"  : "Pass2022*",
+    "server" : {
+        "url": "aulacened.uci.cu",
+        "scheme": "https",
+        "use_image": true,
+        "repo_id": 5
+    }
+}
